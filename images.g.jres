@@ -1,0 +1,12 @@
+{
+    "HR6MQZ`+AH8fF_EGjDHy": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAADw////DwAA8P+PiIhNAAD/X/+E+P8AAP9VstEoQv8AX1Xy3yRC/wBfVULdJEIPAF9V8t8kQv8AX1Wy0ShC/wD/Vf+E+P8AAPD/j4iITQAAAPD///8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "rockstar"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
